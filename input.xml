@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="source.xsd">
+  <lastBuildDate>Thu, 11 Sep 2014 19:39:59 GMT</lastBuildDate>
+  <publisherUrl>https://www.linkedin.com</publisherUrl>
+  <publisher>LinkedIn</publisher>
+  <expectedJobCount>5596</expectedJobCount>
+  <job>
+    <partnerJobId>12345</partnerJobId>
+    <company>LinkedIn</company>
+    <title>Staff Software Engineer - Applications</title>
+    <description><![CDATA[LinkedIn was built to help professionals achieve more in their careers, and every day millions of people use our products to make connections, discover opportunities and gain insights. Our global reach means we get to make a direct impact on the world’s workforce in ways no other company can.]]></description>
+    <industry>Internet, Information Technology and Services</industry>
+    <applyUrl>https://www.linkedin.com/jobs/view/1234?trk=linkedin</applyUrl>
+    <companyId>xxxx</companyId>
+    <location>Sunnyvale, CA, US</location>
+    <alternateLocations>
+      <alternateLocation>Mumbai,IN</alternateLocation>
+      <alternateLocation>Delhi,IN</alternateLocation>
+      <alternateLocation>Bengaluru,IN</alternateLocation>
+    </alternateLocations>
+    <city>Sunnyvale</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94085</postalCode>
+    <industryCodes>
+      <industryCode>120</industryCode>
+      <industryCode>125</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>it</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Java</skill>
+      <skill>Python</skill>
+      <skill>Oracle</skill>
+      <skill>SQL</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>100000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>50000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+      <salary>
+        <highEnd>
+          <amount>50000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>20000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>TOTAL_ADDITIONAL</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>08/28/2023</listDate>
+    <expirationDate>09/28/2023</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>54321</partnerJobId>
+    <company>Google</company>
+    <title>Data Scientist</title>
+    <description><![CDATA[Google's Data Science team is looking for talented individuals with expertise in machine learning and statistical analysis to help build the next generation of data-driven products.]]></description>
+    <industry>Internet, Technology</industry>
+    <applyUrl>https://www.google.com/jobs/data-scientist/</applyUrl>
+    <companyId>google123</companyId>
+    <location>Mountain View, CA, US</location>
+    <city>Mountain View</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94043</postalCode>
+    <industryCodes>
+      <industryCode>130</industryCode>
+      <industryCode>135</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>prdm</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>R</skill>
+      <skill>Python</skill>
+      <skill>TensorFlow</skill>
+      <skill>SQL</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>150000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>80000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Hybrid</workplaceTypes>
+    <listDate>04/15/2024</listDate>
+    <expirationDate>05/15/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>67890</partnerJobId>
+    <company>Amazon</company>
+    <title>Software Development Engineer</title>
+    <description><![CDATA[Amazon Web Services (AWS) is looking for a Software Development Engineer to join our team and drive the development of new features for our cloud computing platform.]]></description>
+    <industry>Internet, Cloud Computing</industry>
+    <applyUrl>https://www.amazon.jobs/en/jobs/123456789/software-development-engineer</applyUrl>
+    <companyId>amazon123</companyId>
+    <location>Seattle, WA, US</location>
+    <city>Seattle</city>
+    <state>WA</state>
+    <country>US</country>
+    <postalCode>98101</postalCode>
+    <industryCodes>
+      <industryCode>120</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Java</skill>
+      <skill>C++</skill>
+      <skill>JavaScript</skill>
+      <skill>AWS</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>160000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>90000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/20/2024</listDate>
+    <expirationDate>05/20/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>13579</partnerJobId>
+    <company>Microsoft</company>
+    <title>Senior Product Manager</title>
+    <description><![CDATA[Microsoft is seeking an experienced Senior Product Manager to lead the development and launch of innovative software products for enterprise customers.]]></description>
+    <industry>Software, Technology</industry>
+    <applyUrl>https://www.microsoft.com/us/en/job/123456/senior-product-manager</applyUrl>
+    <companyId>microsoft123</companyId>
+    <location>Redmond, WA, US</location>
+    <city>Redmond</city>
+    <state>WA</state>
+    <country>US</country>
+    <postalCode>98052</postalCode>
+    <industryCodes>
+      <industryCode>110</industryCode>
+      <industryCode>130</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>prdm</jobFunction>
+      <jobFunction>eng</jobFunction>
+    </jobFunctions>
+    <experienceLevel>EXECUTIVE</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Product Management</skill>
+      <skill>Agile</skill>
+      <skill>Scrum</skill>
+      <skill>Leadership</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>200000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>120000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/25/2024</listDate>
+    <expirationDate>05/25/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>24680</partnerJobId>
+    <company>Facebook</company>
+    <title>Product Designer</title>
+    <description><![CDATA[Facebook is looking for a talented Product Designer to join our design team and help create user-friendly interfaces for our social media platform.]]></description>
+    <industry>Internet, Social Media</industry>
+    <applyUrl>https://www.facebook.com/careers/jobs/1234567/product-designer</applyUrl>
+    <companyId>facebook123</companyId>
+    <location>Menlo Park, CA, US</location>
+    <city>Menlo Park</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94025</postalCode>
+    <industryCodes>
+      <industryCode>120</industryCode>
+      <industryCode>145</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>dsgn</jobFunction>
+      <jobFunction>qa</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>UI/UX Design</skill>
+      <skill>Prototyping</skill>
+      <skill>Adobe XD</skill>
+      <skill>Sketch</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>140000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>80000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Hybrid</workplaceTypes>
+    <listDate>04/18/2024</listDate>
+    <expirationDate>05/18/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>98765</partnerJobId>
+    <company>Apple</company>
+    <title>Hardware Engineer</title>
+    <description><![CDATA[Apple's Hardware Engineering team is seeking a skilled Hardware Engineer to design and develop cutting-edge hardware solutions for our consumer electronic products.]]></description>
+    <industry>Consumer Electronics, Technology</industry>
+    <applyUrl>https://www.apple.com/en-us/details/12345/hardware-engineer</applyUrl>
+    <companyId>apple123</companyId>
+    <location>Cupertino, CA, US</location>
+    <city>Cupertino</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>95014</postalCode>
+    <industryCodes>
+      <industryCode>150</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>prod</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Circuit Design</skill>
+      <skill>PCB Layout</skill>
+      <skill>Embedded Systems</skill>
+      <skill>Signal Processing</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>170000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>100000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/22/2024</listDate>
+    <expirationDate>05/22/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>112233</partnerJobId>
+    <company>Netflix</company>
+    <title>Data Engineer</title>
+    <description><![CDATA[Netflix is looking for a Data Engineer to join our Data Platform team and build scalable data pipelines for processing and analyzing large datasets to drive business insights.]]></description>
+    <industry>Entertainment, Streaming Media</industry>
+    <applyUrl>https://www.netflix.com/jobs/1234567/data-engineer</applyUrl>
+    <companyId>netflix123</companyId>
+    <location>Los Gatos, CA, US</location>
+    <city>Los Gatos</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>95032</postalCode>
+    <industryCodes>
+      <industryCode>160</industryCode>
+      <industryCode>130</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>bd</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Hadoop</skill>
+      <skill>Spark</skill>
+      <skill>AWS</skill>
+      <skill>Python</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>150000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>90000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/19/2024</listDate>
+    <expirationDate>05/19/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>24681</partnerJobId>
+    <company>Google</company>
+    <title>Machine Learning Engineer</title>
+    <description><![CDATA[Google's AI Research team is seeking a Machine Learning Engineer to develop state-of-the-art machine learning algorithms for various AI applications, including natural language processing, computer vision, and recommendation systems.]]></description>
+    <industry>Internet, Technology</industry>
+    <applyUrl>https://www.google.com/jobs/123456789/machine-learning-engineer</applyUrl>
+    <companyId>google123</companyId>
+    <location>Mountain View, CA, US</location>
+    <city>Mountain View</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94043</postalCode>
+    <industryCodes>
+      <industryCode>120</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>anls</jobFunction>
+      <jobFunction>eng</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Machine Learning</skill>
+      <skill>TensorFlow</skill>
+      <skill>Python</skill>
+      <skill>Natural Language Processing</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>180000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>120000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/26/2024</listDate>
+    <expirationDate>05/26/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>11223344</partnerJobId>
+    <company>SpaceX</company>
+    <title>Rocket Engineer</title>
+    <description><![CDATA[SpaceX is seeking a Rocket Engineer to join our team and contribute to the design, development, and testing of our next-generation rocket propulsion systems for interplanetary travel.]]></description>
+    <industry>Aerospace, Technology</industry>
+    <applyUrl>https://www.spacex.com/careers/job/12345/rocket-engineer</applyUrl>
+    <companyId>spacex123</companyId>
+    <location>Hawthorne, CA, US</location>
+    <city>Hawthorne</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>90250</postalCode>
+    <industryCodes>
+      <industryCode>170</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>prdm</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Rocket Propulsion</skill>
+      <skill>Fluid Dynamics</skill>
+      <skill>Finite Element Analysis</skill>
+      <skill>Aerospace Engineering</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>160000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>100000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/24/2024</listDate>
+    <expirationDate>05/24/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>987654</partnerJobId>
+    <company>Uber</company>
+    <title>Senior Data Scientist</title>
+    <description><![CDATA[Uber's Data Science team is looking for a Senior Data Scientist to lead the development of advanced analytical models and algorithms to optimize our ride-sharing platform and improve user experiences.]]></description>
+    <industry>Transportation, Technology</industry>
+    <applyUrl>https://www.uber.com/careers/job/123456/senior-data-scientist</applyUrl>
+    <companyId>uber123</companyId>
+    <location>San Francisco, CA, US</location>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94103</postalCode>
+    <industryCodes>
+      <industryCode>180</industryCode>
+      <industryCode>130</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>sci</jobFunction>
+      <jobFunction>eng</jobFunction>
+    </jobFunctions>
+    <experienceLevel>EXECUTIVE</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Machine Learning</skill>
+      <skill>Statistical Analysis</skill>
+      <skill>R</skill>
+      <skill>Python</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>220000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>140000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/23/2024</listDate>
+    <expirationDate>05/23/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>121212</partnerJobId>
+    <company>Tesla</company>
+    <title>Software Quality Assurance Engineer</title>
+    <description><![CDATA[Tesla's Software Quality Assurance team is seeking an Engineer to develop and execute test plans, identify software defects, and ensure the quality and reliability of our automotive software systems.]]></description>
+    <industry>Automotive, Technology</industry>
+    <applyUrl>https://www.tesla.com/careers/job/123456/software-quality-assurance-engineer</applyUrl>
+    <companyId>tesla123</companyId>
+    <location>Palo Alto, CA, US</location>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94304</postalCode>
+    <industryCodes>
+      <industryCode>190</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>qa</jobFunction>
+    </jobFunctions>
+    <experienceLevel>ENTRY_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Software Testing</skill>
+      <skill>Test Automation</skill>
+      <skill>Python</skill>
+      <skill>Linux</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>150000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>100000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/25/2024</listDate>
+    <expirationDate>05/25/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>314159</partnerJobId>
+    <company>Amazon</company>
+    <title>Cloud Solutions Architect</title>
+    <description><![CDATA[Amazon Web Services (AWS) is seeking a Cloud Solutions Architect to design and implement scalable and reliable cloud solutions for enterprise customers, leveraging AWS services and best practices.]]></description>
+    <industry>Cloud Computing, Technology</industry>
+    <applyUrl>https://www.amazon.jobs/en/jobs/123456/cloud-solutions-architect</applyUrl>
+    <companyId>amazon123</companyId>
+    <location>Seattle, WA, US</location>
+    <city>Seattle</city>
+    <state>WA</state>
+    <country>US</country>
+    <postalCode>98101</postalCode>
+    <industryCodes>
+      <industryCode>200</industryCode>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>adm</jobFunction>
+      <jobFunction>dsgn</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Amazon Web Services (AWS)</skill>
+      <skill>Cloud Architecture</skill>
+      <skill>Infrastructure as Code (IaC)</skill>
+      <skill>DevOps</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>200000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>130000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/27/2024</listDate>
+    <expirationDate>05/27/2024</expirationDate>
+  </job>
+  <job>
+    <partnerJobId>888999</partnerJobId>
+    <company>Microsoft</company>
+    <title>Senior Frontend Engineer</title>
+    <description><![CDATA[Microsoft's Azure DevOps team is seeking a Senior Frontend Engineer to design and develop intuitive user interfaces for our cloud-based software development platform, focusing on enhancing developer productivity and collaboration.]]></description>
+    <industry>Technology</industry>
+    <applyUrl>https://www.microsoft.com/us/en/job/123456/senior-frontend-engineer</applyUrl>
+    <companyId>microsoft123</companyId>
+    <location>Redmond, WA, US</location>
+    <city>Redmond</city>
+    <state>WA</state>
+    <country>US</country>
+    <postalCode>98052</postalCode>
+    <industryCodes>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+      <jobFunction>dsgn</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>JavaScript</skill>
+      <skill>React</skill>
+      <skill>HTML</skill>
+      <skill>CSS</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>180000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>120000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/27/2024</listDate>
+    <expirationDate>05/27/2024</expirationDate>
+  </job>
+
+  <job>
+    <partnerJobId>753951</partnerJobId>
+    <company>IBM</company>
+    <title>Senior Data Engineer</title>
+    <description><![CDATA[IBM's Cloud and Cognitive Software team is seeking a Senior Data Engineer to design, build, and maintain scalable data pipelines and analytics solutions to support data-driven decision-making across the organization.]]></description>
+    <industry>Technology</industry>
+    <applyUrl>https://www.ibm.com/ShowJob/123456/Senior-Data-Engineer</applyUrl>
+    <companyId>ibm123</companyId>
+    <location>San Jose, CA, US</location>
+    <city>San Jose</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>95101</postalCode>
+    <industryCodes>
+      <industryCode>140</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>sci</jobFunction>
+      <jobFunction>bd</jobFunction>
+    </jobFunctions>
+    <experienceLevel>ENTRY_LEVEL</experienceLevel>
+    <jobtype>CONTRACT</jobtype>
+    <skills>
+      <skill>Big Data Technologies</skill>
+      <skill>SQL</skill>
+      <skill>Hadoop</skill>
+      <skill>Python</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>190000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>130000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/26/2024</listDate>
+    <expirationDate>05/26/2024</expirationDate>
+  </job>
+
+  <job>
+    <partnerJobId>369258</partnerJobId>
+    <company>Facebook</company>
+    <title>Product Manager</title>
+    <description><![CDATA[Facebook's Product Management team is seeking a Product Manager to lead the development and execution of product strategies for our social media platform, focusing on user engagement and monetization initiatives.]]></description>
+    <industry>Technology, Social Media</industry>
+    <applyUrl>https://www.facebook.com/careers/job/123456/product-manager</applyUrl>
+    <companyId>facebook123</companyId>
+    <location>Menlo Park, CA, US</location>
+    <city>Menlo Park</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>94025</postalCode>
+    <industryCodes>
+      <industryCode>140</industryCode>
+      <industryCode>220</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>prod</jobFunction>
+      <jobFunction>stra</jobFunction>
+    </jobFunctions>
+    <experienceLevel>EXECUTIVE</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Product Management</skill>
+      <skill>Strategy</skill>
+      <skill>Marketing</skill>
+      <skill>Data Analysis</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>250000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>150000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Remote</workplaceTypes>
+    <listDate>04/25/2024</listDate>
+    <expirationDate>05/25/2024</expirationDate>
+  </job>
+
+  <job>
+    <partnerJobId>474747</partnerJobId>
+    <company>Intel</company>
+    <title>Hardware Engineer</title>
+    <description><![CDATA[Intel's Silicon Engineering team is seeking a Hardware Engineer to design and validate cutting-edge semiconductor devices for our next-generation processors, focusing on performance optimization and power efficiency.]]></description>
+    <industry>Technology, Semiconductor</industry>
+    <applyUrl>https://www.intel.com/page/show/123456/hardware-engineer</applyUrl>
+    <companyId>intel123</companyId>
+    <location>Santa Clara, CA, US</location>
+    <city>Santa Clara</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>95051</postalCode>
+    <industryCodes>
+      <industryCode>140</industryCode>
+      <industryCode>210</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>eng</jobFunction>
+    </jobFunctions>
+    <experienceLevel>MID_SENIOR_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Hardware Design</skill>
+      <skill>Verilog</skill>
+      <skill>VHDL</skill>
+      <skill>ASIC Design</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>200000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>120000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>Hybrid</workplaceTypes>
+    <listDate>04/24/2024</listDate>
+    <expirationDate>05/24/2024</expirationDate>
+  </job>
+
+  <job>
+    <partnerJobId>987654</partnerJobId>
+    <company>Netflix</company>
+    <title>Data Scientist</title>
+    <description><![CDATA[Netflix's Data Science team is seeking a Data Scientist to analyze large datasets and develop predictive models to optimize content recommendation algorithms and personalize user experiences on our streaming platform.]]></description>
+    <industry>Technology, Entertainment</industry>
+    <applyUrl>https://www.netflix.com/jobs/123456/data-scientist</applyUrl>
+    <companyId>netflix123</companyId>
+    <location>Los Gatos, CA, US</location>
+    <city>Los Gatos</city>
+    <state>CA</state>
+    <country>US</country>
+    <postalCode>95032</postalCode>
+    <industryCodes>
+      <industryCode>140</industryCode>
+      <industryCode>230</industryCode>
+    </industryCodes>
+    <jobFunctions>
+      <jobFunction>othr</jobFunction>
+      <jobFunction>dist</jobFunction>
+    </jobFunctions>
+    <experienceLevel>ENTRY_LEVEL</experienceLevel>
+    <jobtype>FULL_TIME</jobtype>
+    <skills>
+      <skill>Data Science</skill>
+      <skill>Machine Learning</skill>
+      <skill>Python</skill>
+      <skill>SQL</skill>
+    </skills>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>180000</amount>
+          <currencyCode>USD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>110000</amount>
+          <currencyCode>USD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <workplaceTypes>On-site</workplaceTypes>
+    <listDate>04/23/2024</listDate>
+    <expirationDate>05/23/2024</expirationDate>
+  </job>
+</source>

@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(244, 242, 238);
+    padding: 40px;
+}
+
+.content {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+.detail {
+    margin-top: 20px;
+}
+
+.job-list {
+    background-color: white;
+    border: 0.5px solid #d0d0d0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.job {
+    padding-bottom: 30px;
+}
+
+.job:not(:last-child) {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.job h2 {
+    margin-bottom: 10px;
+}
+
+.company {
+    font-weight: bold;
+    font-size: 1.3em;
+    color: #404040;
+}
+
+.application-link {
+    margin-top: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+tr {
+    display: block;
+    border-top: 0.5px solid #e0e0e0;
+    padding: 5px;
+}
+
+
+
+tr:last-child {
+    border-bottom: 0.5px solid #e0e0e0;
+}
+
+td:first-child {
+    width: 150px;
+}
