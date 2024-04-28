@@ -18,11 +18,13 @@ class JobDataModel {
         $this->jobFunctions = array();
         $this->skills = array();
 
-        // iniciamos minSalary con valor muy alto, ya que se sobreescribirá
+        // iniciamos minSalary con valor muy alto, ya que se sobreescribirá,
+        // al recorrer los distintos nodos amount que contenga una oferta,
         // siempre que el valor evaluado sea menor al guardado
         $this->minSalary = 999999999999999999;
 
-        // iniciamos maxSalary con valor 0, ya que se sobreescribirá
+        // iniciamos maxSalary con valor 0, ya que se sobreescribirá,
+        // al recorrer los distintos nodos amount que contenga una oferta,
         // siempre que el valor evaluado sea mayor al guardado
         $this->maxSalary = 0;
     }

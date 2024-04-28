@@ -1,13 +1,9 @@
 <?php
-	ini_set('display_errors', 1);
-	ini_set('display_startup_errors', 1);
-	error_reporting(E_ALL);
-
 	// incluimos view.php, que contiene la función printJob relacionada con la vista
 	// de la aplicación
 	include_once("view.php");
 
-	// requierimos JobDataModel, que proporciona la clase con que se definen los objetos
+	// requerimos JobDataModel, que proporciona la clase con que se definen los objetos
 	// de los modelos de datos de cada oferta de trabajo
 	require_once("JobDataModel.php");
 
@@ -33,6 +29,7 @@
 		global $currentJobNode;
 		global $currentProcessingTag;
 
+		// actualizamos currentProcessingTag al elemento actual
 		$currentProcessingTag = $element;
 
 		switch($element)
@@ -118,5 +115,6 @@
 				// resto de etiquetas, no hacer nada
    	 	}
 
+		// liberamos currentProcessingTag
 		$currentProcessingTag = null;
 	}
